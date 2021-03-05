@@ -13,7 +13,7 @@ Application created for personal use. Designed to draw your house in A Game of T
 
 [#Youtubeios](https://github.com/RobbTom/youtubeios)
 
-Simple application using YouTube API created for learning purpose based on CWC tutorial. It displays and allow to play list from certain youtube playlist.
+Simple application using YouTube API created for learning purpose based on CWC tutorial. It displays and allow to play videos from certain youtube playlist.
 
 <p align="center">
 <img src="images/youtubeios/5.8-inch Screenshot 1.jpg" width="230"  title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/youtubeios/5.8-inch Screenshot 2.jpg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/youtubeios/5.8-inch Screenshot 3.jpg" width="230" title="">
